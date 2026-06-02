@@ -107,6 +107,6 @@ strategies would need updating for different datasets.
 
 ## Dataset
 Pima Indians Diabetes Database
-Source: Kaggle at kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Source: Kaggle at https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 Original source: UCI Machine Learning Repository
 768 patients, 9 features, binary diabetes outcome.
